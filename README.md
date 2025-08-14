@@ -30,10 +30,7 @@
 
 ---
 
-## 🚀 Getting Started
 
-**Clone the repository**:
-```bash
-git clone https://github.com/YourUsername/YourRepositoryName.git
+
 
 
