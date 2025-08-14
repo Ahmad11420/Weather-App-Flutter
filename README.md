@@ -7,16 +7,16 @@
 ## 📱 App Screenshots
 
 ### 1️⃣ Splash / Welcome Screen
-![Splash Screen](screenshots/start.png)
+![Splash Screen](screenshoots/start.png)
 
 ### 2️⃣ Rainy Weather (Example: Sydney)
-![Rainy Weather](screenshots/rain.png)
+![Rainy Weather](screenshoots/rain.png)
 
 ### 3️⃣ Cloudy Weather (Example: Islamabad)
-![Cloudy Weather](screenshots/cloud.png)
+![Cloudy Weather](screenshoots/cloud.png)
 
 ### 4️⃣ Sunny Weather (Example: Vegas)
-![Sunny Weather](screenshots/sunn.png)
+![Sunny Weather](screenshoots/sunn.png)
 
 ---
 
@@ -35,4 +35,5 @@
 **Clone the repository**:
 ```bash
 git clone https://github.com/YourUsername/YourRepositoryName.git
+
 
