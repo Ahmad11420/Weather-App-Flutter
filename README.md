@@ -1,8 +1,5 @@
 # ☀️🌧 MyWeather – Flutter Weather App
 
-**MyWeather** ek stylish aur simple Flutter app hai jo real-time weather data show karta hai, saath hi beautiful themed backgrounds ke saath jo weather condition ke hisaab se change hota hai.  
-
----
 
 ## 📱 App Screenshots
 
@@ -29,6 +26,7 @@
 - 📱 **Beautiful UI** with smooth design
 
 ---
+
 
 
 
