@@ -68,6 +68,14 @@ flutter:
     - assets/images/loading.gif
     - assets/images/sunny.png
     - assets/images/sun.png
+    - assets/images/cloud.png
+    - assets/images/Raining.png
+    - assets/images/Snowing.png
+    - assets/images/Clouds.png
+
+    - assets/images/rain.png
+
+    - assets/images/sun.png
   #   - images/a_dot_ham.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see
